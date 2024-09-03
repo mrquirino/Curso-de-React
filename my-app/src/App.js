@@ -1,5 +1,4 @@
 import './App.css';
-import HelloWorld from './componets/HelloWorld'
 import SayMyName from './componets/SayMyName'
 import Pessoa from './componets/Pessoa'
 
