@@ -1,9 +1,14 @@
 import './App.css';
+import HelloWorld from './componets/HelloWorld'
+import SayMyName from './componets/SayMyName'
+
 
 function App() {
   return (
     <div className='App'>
-      <h2> Alterando o jsx</h2>
+
+      <HelloWorld />
+      <SayMyName nome = "Matheus" />
     </div>
   )
 }
